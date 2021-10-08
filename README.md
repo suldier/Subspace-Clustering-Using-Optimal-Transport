@@ -1,2 +1,2 @@
 # Subspace-Clustering-Using-Optimal-Transport
-Subspace Clustering Using Optimal Transportfor Hyperspectral Remote Sensing Image
+Subspace Clustering Using Optimal Transport for Hyperspectral Remote Sensing Image
